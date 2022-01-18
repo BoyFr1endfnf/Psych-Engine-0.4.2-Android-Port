@@ -1,0 +1,39 @@
+{
+	"storyName": "ANTIPATHY",
+	"hideFreeplay": false,
+	"weekBackground": "Place2",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Battered",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Overdrive",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
